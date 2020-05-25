@@ -16,7 +16,15 @@ If errors occur, the author insists on writing to her and clearly explaining
 where the error occurred. For projects or assistance to the author, please 
 write to andyournameshallbeofserpent@gmail.com
 
+INSTALLATION
+------------
 
+Firstly, you must install colorama
+-----------------------------------
+
+git clone https://github.com/blackravens-hackers/Hotpass.git
+cd Hotpass
+python3 hotpass.py
 
 
 
