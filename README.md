@@ -7,11 +7,14 @@ error notifications.You can contact the author as follows: write by mail
 fenix.github.errors@gmail.com or join our group in a telegram:
 t.me/joinchat/M3KTtBy9mmfJARs10mXkSg
 
+This program is a demo version of a real giant that will help you as well 
+(or maybe better) like crunch and other tools.
+Within a few weeks, the program will begin to work stably, and, possibly,
+its size will decrease.
+
 If errors occur, the author insists on writing to her and clearly explaining
 where the error occurred. For projects or assistance to the author, please 
 write to andyournameshallbeofserpent@gmail.com
-
-
 
 
 
