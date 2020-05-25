@@ -22,9 +22,9 @@ INSTALLATION
 Firstly, you must install colorama
 -----------------------------------
 
-git clone https://github.com/blackravens-hackers/Hotpass.git
-cd Hotpass
-python3 hotpass.py
+git clone https://github.com/blackravens-hackers/Hotpass.git                                                                          
+cd Hotpass                                                                                                                                             
+python3 hotpass.py                                                                                                                               
 
 
 
