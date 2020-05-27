@@ -1844,7 +1844,7 @@ else:
     file.write(name1 + age3 + age1 + age2 + age0 + '\n')
     file.write(name1 + age3 + age0 + age2 + age1 + '\n')
     file.write(name1 + age3 + age0 + age1 + age2 + '\n') 
-
+# oh,dear reptilians, where is shitty bag...
 if start == "3":
   cls()
 print(Fore.CYAN + " ")
