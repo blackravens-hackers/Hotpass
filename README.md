@@ -16,6 +16,13 @@ If errors occur, the author insists on writing to her and clearly explaining
 where the error occurred. For projects or assistance to the author, please 
 write to andyournameshallbeofserpent@gmail.com
 
+
+CHANGES
+-------
+~ Fixed bugs
+~ Killed one stupid function
+~ Version upgraded to HOTPASS v1.0.1
+
 INSTALLATION
 ------------
 
