@@ -19,9 +19,9 @@ write to andyournameshallbeofserpent@gmail.com
 
 CHANGES
 -------
-~ Fixed bugs                                                                                                                                                       
-~ Killed one stupid function
-~ Added 2 stupid bugs
+~ Fixed bugs                                                                                                                                                                                                                                         
+~ Killed one stupid function                                                                                   
+~ Added 2 stupid bugs                                                                                               
 ~ Version upgraded to HOTPASS v1.0.1                                                                                        
 
 
