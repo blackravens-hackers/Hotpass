@@ -21,8 +21,7 @@ CHANGES
 -------
 ~ Fixed bugs                                                                                                                                                                                                                                         
 ~ Killed one stupid function                                                                                   
-~ Added 2 stupid bugs                                                                                               
-~ Version upgraded to HOTPASS v1.0.1                                                                                        
+~ Version upgraded to HOTPASS v1.0.3
 
 
 INSTALLATION
